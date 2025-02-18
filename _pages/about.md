@@ -17,6 +17,6 @@ Beyond my core research interests, I am eager to engage with peers from interdis
 
 Contact
 ======
-Email:[laiyuzhe@hust.edu.cn](laiyuzhe@hust.edu.cn)  
+Email: [laiyuzhe@hust.edu.cn](laiyuzhe@hust.edu.cn)  
 
 
