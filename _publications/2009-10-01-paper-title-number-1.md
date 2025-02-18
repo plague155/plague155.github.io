@@ -17,7 +17,7 @@ self-adaptive distributed backdoor attack (SADBA), which
 achieves similar performance to FCBA with a lower percentage of malicious clients (PMC). It also adapts more flexibly through an optimized model poisoning strategy and a
 self-adaptive data poisoning strategy. Experiments demonstrate SADBA outperforms state-of-the-art methods, achieving higher or comparable backdoor performance and MA
 across various datasets with limited PMC.'
-date: 2024-12
+date: 2025-02-25
 venue: 'the 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'In the 39th Annual AAAI Conference on Artificial Intelligence (AAAI). IEEE, 2025'
