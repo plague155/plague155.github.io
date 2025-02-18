@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year MS. student at [School of Cyberspace Security](http://cse.hust.edu.cn/) of [Huazhong University of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Jun Feng](https://junfeng989.github.io/).  I received the B.Eng degree in data science and big data technology in School of Computer and Communication Engineering from Changsha University of Science and Technology, Changsha, China, in 2023.
+I am a third-year M.S. student at [School of Cyberspace Security](http://cse.hust.edu.cn/) of [Huazhong University of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Jun Feng](https://junfeng989.github.io/).  I received my B.Eng. degree in data science and big data technology from the School of Computer and Communication Engineering at Changsha University of Science and Technology, Changsha, China, in 2023.
 
 My research interest includes Privacy Security, Adversarial Attacks, Federated Learning, Audio Processing and Self-supervised Learning. My current work focuses on advanced topics in AI security, Multimedia, Multimodal Learning and Backdoor Attacks, with an emphasis on applications that bridge theory and practice.
 
