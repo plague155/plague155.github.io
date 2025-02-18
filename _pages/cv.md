@@ -3,33 +3,35 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
 
-Education
-======
+# Education
 * M.S. in Network and Information Security, Huazhong University of Science and Technology, 2023-2026 (expected)
 * B.S. in Data Science and Big Data Technology, Changsha University of Science and Technology, 2023
+
  
-Skills
-======
-* Languages
+# Skills
+
+
+## Languages
   * Python
   * C++
   * R
+
     
-* Framework
+## Framework
   * PyTorch
   * Hadoop
+
     
-* English
+## English
   * CET-6
   * IELTS (in preparing)
+
     
-* Others
+## Others
   * Chinese Musicians Association, Level 10 Saxophone
   
 Publications
