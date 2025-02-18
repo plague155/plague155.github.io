@@ -6,7 +6,7 @@
 
 main:
   - title: "Introduction"
-      url: /Introduction/
+    url: /Introduction/
       
   - title: "News"
     url: /News/
