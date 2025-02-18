@@ -14,20 +14,20 @@ author_profile: true
  
 # Skills
 
-## Languages
+* Languages
   * Python
   * C++
   * R
     
-## Framework
+* Framework
   * PyTorch
   * Hadoop
     
-## English
+* English
   * CET-6
   * IELTS (in preparing)
     
-## Others
+* Others
   * Chinese Musicians Association, Level 10 Saxophone
   
 Publications
