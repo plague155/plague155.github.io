@@ -6,7 +6,7 @@
 
 main:
   - title: "Introduction"
-    url: /https://plague155.github.io/
+    url: "https://plague155.github.io/"
       
   - title: "News"
     url: /News/
