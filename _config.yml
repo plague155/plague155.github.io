@@ -27,7 +27,10 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Huazhong University of Science \nand Technology"
+  # employer         : "Huazhong University of Science \nand Technology"
+  employer: |
+  Huazhong University of Science
+  and Technology
   uri              : # URL
   email            : "laiyuzhe@hust.edu.cn" 
 
