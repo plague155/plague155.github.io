@@ -5,9 +5,7 @@ permalink: /News/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
+# 🔥 News
 
 
 ## 2025
