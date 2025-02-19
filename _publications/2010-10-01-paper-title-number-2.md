@@ -7,7 +7,7 @@ excerpt: 'Modern automatic audio systems, such as environmental sound recognitio
 date: 2025-08-13
 venue: 'the 34th USENIX Security Symposium'
 
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://plague155.github.io/files/paper2.pdf'
 citation: 'In the 34th USENIX Security Symposium (USENIX Security), USENIX Association, 2025'
 ---
 
