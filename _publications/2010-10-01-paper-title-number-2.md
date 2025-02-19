@@ -8,7 +8,7 @@ date: 2025-08-13
 venue: 'the 34th USENIX Security Symposium'
 status: 'Submitted to '
 
-paperurl: 'http://plague155.github.io/files/paper2.pdf'
+paperurl: ''
 citation: 'In the 34th USENIX Security Symposium (USENIX Security), USENIX Association, 2025'
 ---
 
