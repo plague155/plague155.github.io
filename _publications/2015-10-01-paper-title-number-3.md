@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Phantom in the Corner: Phase Difference Based Multi-Channel Audio Backdoors in the Physical World.
+Principal Investigator. In-Progress."
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper proposes a new audio backdoor attack method to address the security issues of multi-channel audio signals in the audio field. This method utilizes multi-channel microphones to receive audio signals, which generate different time delays and phase differences for signals from different directions, achieving covert backdoor injection in a physical environment. Through this approach, efficient backdoor injection has been successfully achieved, and inheritance can be carried out without affecting downstream tasks. This method uses a directional difference trigger to activate backdoor attacks only in specific directions, thereby guiding the model to output expected results under the control of the attacker. This study proposes a novel physical audio backdoor attack aimed at revealing the security risks that audio domain models such as speech recognition may face, and providing new ideas for enhancing the security of self supervised learning and speech analysis models in the audio domain.'
+date: 2025-04-04
+venue: 'IEEE Transactions on Information Forensics and Security (expected)'
+
+citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper proposes a new audio backdoor attack method to address the security issues of multi-channel audio signals in the audio field. This method utilizes multi-channel microphones to receive audio signals, which generate different time delays and phase differences for signals from different directions, achieving covert backdoor injection in a physical environment. Through this approach, efficient backdoor injection has been successfully achieved, and inheritance can be carried out without affecting downstream tasks. This method uses a directional difference trigger to activate backdoor attacks only in specific directions, thereby guiding the model to output expected results under the control of the attacker. This study proposes a novel physical audio backdoor attack aimed at revealing the security risks that audio domain models such as speech recognition may face, and providing new ideas for enhancing the security of self supervised learning and speech analysis models in the audio domain.
