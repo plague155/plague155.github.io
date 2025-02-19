@@ -19,7 +19,7 @@ self-adaptive data poisoning strategy. Experiments demonstrate SADBA outperforms
 across various datasets with limited PMC.'
 date: 2025-02-25
 venue: 'the 39th Annual AAAI Conference on Artificial Intelligence (AAAI)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/AAAI_25.pdf'
 citation: 'In the 39th Annual AAAI Conference on Artificial Intelligence (AAAI). IEEE, 2025'
 ---
 
