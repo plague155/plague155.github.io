@@ -29,6 +29,8 @@ author_profile: true
     
 * Others
   * Chinese Musicians Association, Level 10 Saxophone
+  * Swimming
+  * Badminton
   
 Publications
 ======
