@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "News"
+title: "🔥 News"
 permalink: /News/
 author_profile: true
 ---
 
-# 🔥 News
 
 
 ## 2025
