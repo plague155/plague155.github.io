@@ -1,7 +1,7 @@
 ---
 title: "SADBA: Self-Adaptive Distributed Backdoor Attack against Federated Learning"
-collection: conferences
-category: manuscripts
+collection: publications
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Backdoor attacks in federated learning (FL) face challenges
 such as lower attack success rates and compromised main
