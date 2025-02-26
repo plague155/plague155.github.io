@@ -1,7 +1,7 @@
 ---
 title: 'How to Install DeepSeek Locally with Ollama?'
 date: 2025-02-26
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2025/02/blog-post/
 tags:
   - Ollama
   - DeepSeek
