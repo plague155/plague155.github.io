@@ -12,7 +12,7 @@ Running large language models like DeepSeek locally on your machine is a powerfu
 
 
 # Install Ollama
-https://www.glukhov.org/post/2024/06/move-ollama-models/
+[https://www.glukhov.org/post/2024/06/move-ollama-models/](https://www.glukhov.org/post/2024/06/move-ollama-models/)
 
 # Download and Run DeepSeek Model
-https://www.tecmint.com/run-deepseek-locally-on-linux/
+[https://www.tecmint.com/run-deepseek-locally-on-linux/](https://www.tecmint.com/run-deepseek-locally-on-linux/)
