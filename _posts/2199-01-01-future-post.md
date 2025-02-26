@@ -5,6 +5,7 @@ permalink: /posts/2012/08/blog-post-4/
 tags:
   - Ollama
   - DeepSeek
+  - LLM
 ---
 
 Running large language models like DeepSeek locally on your machine is a powerful way to explore AI capabilities without relying on cloud services.
