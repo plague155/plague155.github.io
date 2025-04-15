@@ -20,7 +20,7 @@ across various datasets with limited PMC.'
 date: 2025-02-25
 venue: 'the 39th Annual AAAI Conference on Artificial Intelligence (AAAI)'
 paperurl: 'http://plague155.github.io/files/AAAI_25.pdf'
-citation: 'In the 39th Annual AAAI Conference on Artificial Intelligence (AAAI), IEEE, 2025'
+citation: 'In the 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025'
 status: 'Published in '
 ---
 
