@@ -1,5 +1,5 @@
 ---
-title: 'Python Interpreter 'pip' Error'
+title: 'Python Interpreter ''pip'' Error'
 date: 2023-03-14
 permalink: /posts/2023/03/blog-post-0/
 tags:
