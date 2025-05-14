@@ -1,0 +1,45 @@
+
+Latex
+1) 易忽略细节：
+
+	对象(公式、表格、图片)索引名label不要空格，多用下划线，不然latex编译器会报错
+	
+	摘要，正文简写相互独立，仅首次需要写全称
+
+2）参考文献方面：
+简写版：会议	in lEEE S&P, 2024,pp.1994-2012.	期刊 lEEE/ACM Trans. Audio Speech Lang.Process., vol.3l,pp.1720-17332023.
+
+详细版：
+
+3）论文表格方面：
+	
+	有时可考虑优者加粗
+	
+	无关紧要的图可以放附录【若有页数限制】
+
+4）论文布局方面：
+
+	文字环绕技巧：【注意v】
+	\begin{wrapfigure}{r}{0.5\textwidth}  % r 表示图在右侧，0.5 表示图宽度占页面一半
+    % \vspace{-10pt}  % 向上压一点
+    \centering
+    \includegraphics[width=\linewidth]{figure/SSL_SL_new_3.pdf}
+    \caption{Comparison ...}
+    \label{comparison_of_SSL_and_SL}
+    \vspace{-15pt}  % 向下压一点
+	\end{wrapfigure}
+	
+	贡献点标准化：三个点（Problems. Methodology. Evaluation.）
+	
+	总结一段即可
+	
+
+5）绘图方面：
+	
+	图片字体要和正文尽量一个大小
+	
+	内容尽量紧凑
+
+	多用SCI优秀配色表或借鉴已有论文配色
+	
+6）代码中不要有中文注释也不要有作者任何信息
