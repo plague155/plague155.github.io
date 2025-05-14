@@ -1,18 +1,21 @@
 ---
-title: 'How to Install DeepSeek Locally with Ollama?'
+title: 'How to Use LaTeX to Write Academic Papers?'
 date: 2025-02-26
-permalink: /posts/2025/02/blog-post/
+permalink: /posts/2023/02/blog-post/
 tags:
-  - Ollama
-  - DeepSeek
-  - LLM
+  - Latex
+  - Academic
+  - Tools
 ---
 
-Running large language models like DeepSeek locally on your machine is a powerful way to explore AI capabilities without relying on cloud services.
+Install Tex live and Tex Studio, and follow tips below.
 
 
-# Install Ollama
+# Install Tex live
 [https://www.glukhov.org/post/2024/06/move-ollama-models/](https://www.glukhov.org/post/2024/06/move-ollama-models/)
 
-# Download and Run DeepSeek Model
+# Download Tex Studio
 [https://www.tecmint.com/run-deepseek-locally-on-linux/](https://www.tecmint.com/run-deepseek-locally-on-linux/)
+
+# Tips
+
